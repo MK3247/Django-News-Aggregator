@@ -29,10 +29,32 @@ for i in range(len(l)):
   
  What things you need to install, the software, and how to install them
  
- * **python 3*
+ * **python 3**
  
  Linux:
  
 ```
  sudo apt-get install python3.9.11
 ```
+ Windows:
+ 
+ You can get it from [python.org](https://www.python.org/downloads/windows/)
+ 
+ Mac OS:
+ 
+ ```
+ brew install python3
+ ```
+ 
+ * **pip**
+ 
+ Linux and Mac OS
+ 
+ ```
+ pip install -U pip
+ ```
+ Windows:
+ 
+ ```
+ python -m pip install -U pip
+ ```

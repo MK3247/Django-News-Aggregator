@@ -113,6 +113,6 @@ In case you find a bug, kindly open an issue [here](https://https://github.com/M
 
 ## Credits 
 
-[Data Flair](https://data-flair.training/blogs/django-project-ideas/) - Reference
-[GeeksforGeeks](https://www.geeksforgeeks.org/fetching-top-news-using-news-api/?ref=lbp) - Reference
+- [Data Flair](https://data-flair.training/blogs/django-project-ideas/) - Reference
+- [GeeksforGeeks](https://www.geeksforgeeks.org/fetching-top-news-using-news-api/?ref=lbp) - Reference
 

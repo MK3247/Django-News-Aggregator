@@ -58,3 +58,28 @@ for i in range(len(l)):
  ```
  python -m pip install -U pip
  ```
+* **news-api**
+
+```
+pip install newsapi-python
+```
+
+## Installation
+
+Clone this repository
+
+```
+git clone https://github.com/MK3247/Django-News-Aggregator.git
+```
+
+Open the folder
+
+```
+cd Django-News-Aggregator
+```
+
+Install all the requirements
+
+```
+python -m pip install -r requirements.txt
+```

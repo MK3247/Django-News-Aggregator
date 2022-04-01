@@ -1,5 +1,6 @@
 # Django News Aggregator
 
+![image](https://github.com/MK3247/Django-News-Aggregator/blob/main/home.png)
 
 ## Motivation 
 

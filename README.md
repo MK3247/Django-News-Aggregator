@@ -18,12 +18,12 @@ This project was motivated by the need to create a web application that consolid
 
 ## Code Example
 
-'''python
+```python
 for i in range(len(l)):
     f = l[i]
     news.append(f['title'])
     url.append(f['url'])
- '''
+```
  
  ## Prerequisites
   
@@ -33,6 +33,6 @@ for i in range(len(l)):
  
  Linux:
  
- '''
+```
  sudo apt-get install python3.9.11
- '''
+```

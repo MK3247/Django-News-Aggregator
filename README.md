@@ -1,5 +1,7 @@
 # Django News Aggregator
 
+Link: [AllNewx](https://allnewx.herokuapp.com/)
+
 ![image](https://github.com/MK3247/Django-News-Aggregator/blob/main/Home.png)
 
 ## Motivation 

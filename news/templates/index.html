@@ -6,9 +6,12 @@
 </head>
 <body>
     <div class="jumbotron">
-        <center><h1>Latest News Across The World</h1>
-           <a href="{% url 'index' %}" class="btn btn-danger">Refresh News</a>
-        </form>
+        <center>
+            <h1>Latest News Across The World</h1>
+            <form method="POST" action="{% url 'index' %}">
+                {% csrf_token %}
+                <button type="submit" class="btn btn-success">Refresh News</button>
+            </form>
         </center>
     </div>
     <div class="container">

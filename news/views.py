@@ -5,7 +5,7 @@ from newsapi import NewsApiClient
 newsapi = NewsApiClient(api_key ='4dbc17e007ab436fb66416009dfb59a8')
 
 #BBC
-top = newsapi.get_top_headlines(sources ='bbc-news')
+top = newsapi.get_top_headlines(sources ='bbc-news, the-verge')
 l = top['articles']
 news =[]
 url =[]
